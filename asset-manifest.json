@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/static/js/main.3d649e6c.chunk.js",
+    "main.js.map": "/static/js/main.3d649e6c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fef45590.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fef45590.js.map",
+    "static/css/2.130bf921.chunk.css": "/static/css/2.130bf921.chunk.css",
+    "static/js/2.cb4d4724.chunk.js": "/static/js/2.cb4d4724.chunk.js",
+    "static/js/2.cb4d4724.chunk.js.map": "/static/js/2.cb4d4724.chunk.js.map",
+    "static/js/3.4febb18d.chunk.js": "/static/js/3.4febb18d.chunk.js",
+    "static/js/3.4febb18d.chunk.js.map": "/static/js/3.4febb18d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.130bf921.chunk.css.map": "/static/css/2.130bf921.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.cb4d4724.chunk.js.LICENSE.txt": "/static/js/2.cb4d4724.chunk.js.LICENSE.txt",
+    "static/media/BigShouldersInlineDisplay-Medium.a5cab65d.ttf": "/static/media/BigShouldersInlineDisplay-Medium.a5cab65d.ttf",
+    "static/media/about.6eafdeb7.png": "/static/media/about.6eafdeb7.png",
+    "static/media/b3MHGHj.be061635.jpg": "/static/media/b3MHGHj.be061635.jpg",
+    "static/media/career.796a49fc.jpg": "/static/media/career.796a49fc.jpg",
+    "static/media/contact.53698f48.jpg": "/static/media/contact.53698f48.jpg",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg",
+    "static/media/white.7aa90a0e.jpg": "/static/media/white.7aa90a0e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fef45590.js",
+    "static/css/2.130bf921.chunk.css",
+    "static/js/2.cb4d4724.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3d649e6c.chunk.js"
+  ]
+}
